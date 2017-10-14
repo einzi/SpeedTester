@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<servers>
+		<server url="http://speed.smartnet.is/speedtest/upload.php" lat="66.0751" lon="-23.1212" name="Isafjordur" country="Iceland" cc="IS" sponsor="Snerpa" id="3644" url2="http://speed2.smartnet.is/speedtest/upload.php" host="speed.smartnet.is:8080"/>
+		<server url="http://speedtest.c.is/speedtest/upload.php" lat="64.1333" lon="-21.9333" name="Reykjavík" country="Iceland" cc="IS" sponsor="Vodafone" id="4141" url2="http://speedtest2.c.is/speedtest/upload.php" host="speedtest.c.is:8080"/>
+		<server url="http://speedtest1.nova.is/speedtest/upload.aspx" lat="64.1333" lon="-21.9333" name="Reykjavik" country="Iceland" cc="IS" sponsor="Nova" id="3684" host="speedtest1.nova.is:8080"/>
+		<server url="http://speedtest.vodafone.co.uk/speedtest/upload.php" lat="51.5171" lon="-0.1062" name="London" country="Great Britain" cc="GB" sponsor="Vodafone UK" id="2789" url2="http://speedtest-newbury.vodafone.co.uk/speedtest/upload.php" host="speedtest.vodafone.co.uk:8080"/>
+		<server url="http://s1.ber.speedtest.interoute.net/speedtest/upload.php" lat="52.5167" lon="13.3833" name="Berlin" country="Germany" cc="DE" sponsor="Interoute VDC" id="10259" url2="http://s2.ber.speedtest.interoute.net/speedtest/upload.php" host="ber.speedtest.interoute.net:8080"/>
+		<server url="http://speedtest.vodafone.ie/speedtest/upload.php" lat="53.3478" lon="-6.2597" name="Dublin" country="Ireland" cc="IE" sponsor="Vodafone IE" id="1756" url2="http://213.233.154.130/speedtest/upload.php" host="speedtest.vodafone.ie:8080"/>
+	</servers>
+</settings>
